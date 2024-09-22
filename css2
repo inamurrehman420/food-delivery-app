@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Grand Hotel';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/grandhotel/v19/7Au7p_IgjDKdCRWuR1azpmQN.ttf) format('truetype');
+}
